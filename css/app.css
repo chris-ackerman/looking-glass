@@ -50,7 +50,7 @@ a {
 #intro {
   text-align: center;
   font-size: 48px;
-  background-image: url('http://localhost/Sites/glass2/files/liv1.jpg');
+  background-image: url('/files/liv1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 /*  opacity: .75;*/
@@ -82,7 +82,6 @@ a {
 
 #footer-logo {
   height: 200px;
-  float: right;
   width: auto;
 }
 
