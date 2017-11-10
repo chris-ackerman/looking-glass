@@ -72,6 +72,14 @@ a {
 #customization {
   background-color: #f3f3f3;
 }
+
+#quote {
+  text-align: center;
+}
+
+#list {
+  list-style-type: circle;
+}
 /* FOOTER */
 
 .footer {
@@ -83,6 +91,7 @@ a {
 #footer-logo {
   height: 200px;
   width: auto;
+  background-color: black;
 }
 
 /* Grow CSS */
