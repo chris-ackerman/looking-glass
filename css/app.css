@@ -88,7 +88,7 @@ a {
 }
 
 #bullet, #quote {
-  color: #26A797;
+  color: #597e8e;
 }
 
 #bullet h4 {
@@ -147,7 +147,8 @@ a {
 
 .header li a:hover,
 .header .menu-btn:hover {
-  background-color: #26A797;
+  /*background-color: #26A797;*/
+  background-color: #597e8e;
 }
 
 .header .logo {
@@ -310,7 +311,7 @@ a {
 }
 
 .trish {
-  background-color: #26A797 !important;
+  background-color: #597e8e !important;
 }
 
 #jay {
@@ -447,7 +448,7 @@ button.accordion {
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 button.accordion.active, button.accordion:hover {
-    border: 2px solid #26a797;
+    border: 2px solid #597e8e;
 }
 
 /* Style the accordion panel. Note: hidden by default */
@@ -462,7 +463,7 @@ div.panel {
     overflow: hidden;
     transition: max-height 0.2s ease-out;
     font-size: 20px;
-    background-color: #26A797;
+    background-color: #597e8e;
     color: white;
 }
 /* ******************************** */
